@@ -1,3 +1,3 @@
 
 export * from "./Icons/icons";
-export { Navbar } from "./Navbar/navbar";
+export { Navbar } from "./Navbar/Navbar";
